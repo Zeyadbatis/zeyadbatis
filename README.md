@@ -7,15 +7,15 @@
 ---
 
 ### 💻 Tech Stack
-- **Languages:** Python, Java, SQL, JavaScript  
-- **Data Science:** Pandas, NumPy, Scikit-learn, Matplotlib  
+- **Languages:** C, Java, JavaScript, Python,SQL
+- **Data Science:** Pandas, NumPy, Matplotlib  
 - **Web Dev:** HTML, CSS, React, Firebase  
-- **Tools:** Git, Docker, Jupyter Notebook, VS Code  
+- **Tools:** Git, VS Code, Eclips, Netbeans, Jupyter Notebook  
 
 ---
 
 ### 🛠 Projects
-- 🔍 [Bike Demand Predictor](https://github.com/zeyadbatis/bike-demand-predictor): ML model predicting daily rentals based on weather  
+- 🔍 [To do list wep app](https://github.com/zeyadbatis/bike-demand-predictor): ML model predicting daily rentals based on weather  
 - 📘 [Student Info Management System](https://github.com/zeyadbatis/student-info-system): Java-based desktop app for managing student data  
 - ✅ [Task Manager App](https://github.com/zeyadbatis/task-manager): React + Firebase app with real-time task tracking  
 
