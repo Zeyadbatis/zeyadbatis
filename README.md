@@ -7,29 +7,31 @@
 ---
 
 ### 💻 Tech Stack
-- **Languages:** C, Java, JavaScript, Python,SQL
+- **Languages:** C, Java, JavaScript, Python, SQL
 - **Data Science:** Pandas, NumPy, Matplotlib  
 - **Web Dev:** HTML, CSS, React, Firebase  
-- **Tools:** Git, VS Code, Eclips, Netbeans, Jupyter Notebook  
+- **Tools:** Git, VS Code, Eclipse, Jupyter Notebook  
 
 ---
 
 ### 🛠 Projects
-- 🔍 [To do list wep app](https://github.com/tokentrojan/Dynamic-Life-Planning/tree/main): ML model predicting daily rentals based on weather  
-- 📘 [Student Info Management System](https://github.com/zeyadbatis/student-info-system): Java-based desktop app for managing student data  
-- ✅ [Task Manager App](https://github.com/zeyadbatis/task-manager): React + Firebase app with real-time task tracking  
+- 🔍 [To do list wep app](https://github.com/tokentrojan/Dynamic-Life-Planning/tree/main): A Progressive Web App (PWA) featuring dynamic task planning and real-time updates.
+- 📘 [Student Info Management System](https://github.com/Zeyadbatis/zeyadbatis_sims_project): Java-based desktop app for managing student data  
+
 
 ---
 
 ### 📫 Get in Touch
-- ✉️ Email: zeyad.batis@email.com  
-- 💼 [LinkedIn](https://linkedin.com/in/zeyadbatis)  
-- 🌐 Portfolio (coming soon)
+- ✉️ Email: zeyadbatis@email.com  
+- 💼 [LinkedIn](https://www.linkedin.com/in/zeyad-batis-b66a45287/)
+- Phone: +64 22 473 7966
+
+
 
 ---
 
-<!-- Fun badges or GitHub stats (optional) -->
-<!--
-![Zeyad's GitHub stats](https://github-readme-stats.vercel.app/api?username=zeyadbatis&show_icons=true&theme=default)
--->
+![Zeyad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zeyadbatis&show_icons=true&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zeyadbatis&layout=compact&theme=default)
+![GitHub Streak](https://streak-stats.demolab.com?user=zeyadbatis&theme=default)
+
 
