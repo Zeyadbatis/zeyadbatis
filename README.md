@@ -15,7 +15,7 @@
 ---
 
 ### 🛠 Projects
-- 🔍 [To do list wep app](https://github.com/zeyadbatis/bike-demand-predictor): ML model predicting daily rentals based on weather  
+- 🔍 [To do list wep app](https://github.com/tokentrojan/Dynamic-Life-Planning/tree/main): ML model predicting daily rentals based on weather  
 - 📘 [Student Info Management System](https://github.com/zeyadbatis/student-info-system): Java-based desktop app for managing student data  
 - ✅ [Task Manager App](https://github.com/zeyadbatis/task-manager): React + Firebase app with real-time task tracking  
 
