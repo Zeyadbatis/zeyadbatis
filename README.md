@@ -29,8 +29,3 @@
 
 ---
 
-![Zeyad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zeyadbatis&show_icons=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zeyadbatis&layout=compact&theme=default)
-![GitHub Streak](https://streak-stats.demolab.com?user=zeyadbatis&theme=default)
-
-
