@@ -23,7 +23,6 @@
 
 ### 📫 Get in Touch
 - ✉️ Email: zeyadbatis@email.com  
-- 💼 [LinkedIn](https://www.linkedin.com/in/zeyad-batis-b66a45287/)
 - Phone: +64 22 473 7966
 
 
