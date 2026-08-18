@@ -1,15 +1,15 @@
-## 👋 Hi there, I’m Zeyad Batis
+ 👋 Hi there, I’m Zeyad Batis
 
-🎓 Final-year Software Development & Data Science student  
-📍 Based in Auckland, New Zealand  
-🔎 Passionate about building real-world software and solving data-driven problems
+🎓 - Software Development & Data Science Gradute
+📍  - Based in Auckland, New Zealand  
+🔎 - Passionate about building real-world software and solving data-driven problems
 
 ---
 
 ### 💻 Tech Stack
 - **Languages:** C, Java, JavaScript, Python, SQL
 - **Data Science:** Pandas, NumPy, Matplotlib  
-- **Web Dev:** HTML, CSS, React, Firebase  
+- **Web Dev:** HTML, CSS, React, Firebase, Supabase  
 - **Tools:** Git, VS Code, Eclipse, Jupyter Notebook  
 
 ---
