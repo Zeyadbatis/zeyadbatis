@@ -24,7 +24,7 @@
 
 ### 📫 Get in Touch
 - ✉️ Email: zeyadbatis@gmail.com  
-- Phone: +64 22 473 7966
+- Linkedin: [Zeyad Batis]([https://github.com/palpapig/COMP702-WindTurbine](https://www.linkedin.com/in/zeyad-batis-b66a45287/))
 
 
 
