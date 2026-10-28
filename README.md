@@ -7,7 +7,8 @@
 ---
 
 ### Tech Stack
-- **Languages:** C, C#/.NET, Java, JavaScript, Python, SQL
+- **Languages:** Java, Python, C, C#/.NET, JavaScript, SQL
+- **Cloud & DevOps:** AWS (Lambda, API Gateway, SQS, DynamoDB, S3, CloudFront, IAM), Terraform
 - **Data Science:** Pandas, NumPy, scikit-learn, ONNX, Matplotlib
 - **Web Dev:** HTML, CSS, React, Firebase, Supabase
 - **Tools:** Git, VS Code, Eclipse, Jupyter Notebook
