@@ -16,9 +16,11 @@
 
 ### Projects
 
-- **[Student Info Management System](https://github.com/Zeyadbatis/zeyadbatis_sims_project)** — Java desktop app for managing student records, built solo for a university project.
-
 - **[Wind Turbine Monitoring System](https://github.com/palpapig/COMP702-WindTurbine)** — Team project (Dimension Software). System monitors turbine performance, detects faults via an ONNX kNN model, and flags degradation trends. My part covered the machine learning and monitoring logic: training the KNN-based model in Python, converting it to ONNX, integrating and running inference inside the .NET application, and developing the EWMA-based fault detection in C#. See [my commits](https://github.com/palpapig/COMP702-WindTurbine/commits/main?author=Zeyadbatis).
+
+- **[AWS Serverless Order Processing](https://github.com/Zeyadbatis/aws-serverless-order-processing)** — Serverless order processing system built with Terraform and AWS. Uses Lambda, API Gateway, SQS, and DynamoDB to process orders asynchronously, with S3 and CloudFront for static website hosting. Includes IAM access controls and remote Terraform state management.
+
+- **[Student Info Management System](https://github.com/Zeyadbatis/zeyadbatis_sims_project)** — Java desktop app for managing student records, built solo for a university project.
 
 - **[Dynamic Life Planning](https://github.com/tokentrojan/Dynamic-Life-Planning/tree/main)** — Team project. Progressive Web App for dynamic task planning with real-time updates. I built the create task page and contributed to the Firebase integration.
 
